@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS OUT OF DATE!!! PLEASE PULL FROM SOURCE PROJECT, [MonsieurV/PiPocketGeiger](https://github.com/MonsieurV/PiPocketGeiger "MonsieurV/PiPocketGeiger")!!! #
+
+# STOP #
+
 # Raspberry Pi Pocket Geiger library
 
 A Raspberry Pi library to interface with the [Radiation Watch Pocket Geiger counter](http://www.radiation-watch.co.uk/) (Type 5).
